@@ -66,6 +66,7 @@ int main(int argc, char* argv[]) {
     else if (phraseOne.find(phraseTwo) != string::npos) {
       cout << phraseTwo << " is found in " << phraseOne << endl;
     }
+    //hello
     
    
         
